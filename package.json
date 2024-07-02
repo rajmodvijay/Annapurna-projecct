@@ -1,7 +1,7 @@
 {
-  "name": "foodmine-react",
+  "name": "annapurna-react",
   "version": "1.0.0",
-  "description": "## 1. Demo And Installation",
+  "description": "#project web",
   "main": "index.js",
   "scripts": {
     "start": "cd backend && npm start",
